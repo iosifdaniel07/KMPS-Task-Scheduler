@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="initial_screen">initial_screen</string>
+    <string name="main_screen">main_screen</string>
+</resources>
